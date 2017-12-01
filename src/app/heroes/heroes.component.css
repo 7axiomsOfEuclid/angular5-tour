@@ -1,4 +1,5 @@
-  .heroes {
+/* HeroesComponent's private CSS styles */
+.heroes {
     margin: 0 0 2em 0;
     list-style-type: none;
     padding: 0;
@@ -49,4 +50,26 @@
     border-radius: 4px 0 0 4px;
   }
   
+  button {
+    margin-top: 1em;
+    font-family: Arial;
+    background-color: #eee;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+  button:hover {
+    background-color: #cfd8dc;
+  }
+  
+  button.delete {
+    position: relative;
+    left: 194px;
+    top: -47px;
+    background-color: gray !important;
+    color: white;
+  }
   

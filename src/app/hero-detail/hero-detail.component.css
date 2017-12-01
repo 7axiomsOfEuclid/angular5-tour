@@ -1,4 +1,4 @@
-button.back {
+button {
     margin-top: 1em;
     font-family: Arial;
     background-color: #eee;
@@ -16,7 +16,7 @@ button:disabled {
     color: #aaa;
     cursor: auto;
 }
-button.back {
+button {
     color: #888;
     margin-bottom: 12px;
 }

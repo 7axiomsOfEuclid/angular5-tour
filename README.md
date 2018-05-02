@@ -1,4 +1,4 @@
-# Angualr-Test
+# Angular-Test
 
 
 ## Development server
